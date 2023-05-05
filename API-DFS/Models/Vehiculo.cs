@@ -12,8 +12,8 @@ namespace API_DFS.Models
         public string Cod_vehiculo { get; set; }
         public string latitud { get; set; }
         public string longitud { get; set; }
-        public string Fecha_hora_inicio { get; set; }
-        public string Fecha_hora_fin { get; set; }
+        public string HORA_INICIO { get; set; }
+        public string HORA_FINAL { get; set; }
         public string Minutos { get; set; }
         public string Pasajeros { get; set; }
         public string Marcas_descontadas { get; set; }
